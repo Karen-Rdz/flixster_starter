@@ -1,5 +1,3 @@
-📝 `NOTE` Use this template to initialize the contents of a README.md file for your application. As you work on your assignment over the course of the week, update the required or stretch features lists to indicate which features you have completed by changing `[ ]` to `[x]`. (🚫 Remove this paragraph before submitting your assignment.)
-
 ## Week 1 Assignment: Flixster
 
 Submitted by: **Karen Rodriguez**
@@ -21,14 +19,14 @@ Estimated time spent: **12** hours spent in total
   - The button should have an id of `load-more-movies-btn`.
   - When clicked, the page should not refresh.
   - New movies should simply be added to the bottom
-- [ ] Allow users to search for movies and display them in a grid view
+- [x] Allow users to search for movies and display them in a grid view
   - There should be a search input element with an id of `search-input`
   - Users should be able to type into the input
   - When a user hits 'Enter', it should send a search request to the movies API
   - The results from the search should be displayed on the page
   - There should be a close icon with an id of `close-search-btn` that exits the search, clears results, and shows the current movies displayed previously
 - [x] Website accounts for basic HTML/CSS accessibility features
-- [ ] Website should be responsive
+- [x] Website should be responsive
 
 #### STRETCH FEATURES
 
@@ -40,9 +38,7 @@ Estimated time spent: **12** hours spent in total
 
 ### Walkthrough Video
 
-`TODO://` Add the embedded URL code to your animated app walkthrough below, `ADD_EMBEDDED_CODE_HERE`. Make sure the video or gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after adding walkthrough video)
-
-`ADD_EMBEDDED_CODE_HERE`
+`![](video.mp4)`
 
 ### Reflection
 
@@ -57,10 +53,6 @@ I would like to add more features, starting from the Stretch Features. And also 
 * Reflect on your project demo, what went well? Were there things that maybe didn't go as planned? Did you notice something that your peer did that you would like to try next time?
 
 Sometimes it was hard to find the error on my code, and after a long time I realized it was something small, so it was disapointing and stressfull. And something I want to try next time is to have a better layout and desing in order to be more professional
-
-### Open-source libraries used
-
-- Add any links to open-source libraries used in your project.
 
 ### Shout out
 

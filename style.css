@@ -27,6 +27,15 @@ h2{
     color: white;
 }
 
+#search-input{
+    margin-bottom: 0;
+}
+
+#closeImg{
+    width: 20px;
+    height: 20px;
+}
+
 .more{
     text-align: center;
     color: white;
