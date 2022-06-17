@@ -2,24 +2,22 @@
 
 ## Week 1 Assignment: Flixster
 
-Submitted by: **NAME**
+Submitted by: **Karen Rodriguez**
 
-Estimated time spent: **#** hours spent in total
-
-Deployed Application (optional): [Flixster Deployed Site](ADD_LINK_HERE)
+Estimated time spent: **12** hours spent in total
 
 ### Application Features
 
 #### CORE FEATURES
 
-- [ ] User can view a list of current movies from The Movie Database API as a grid view
+- [x] User can view a list of current movies from The Movie Database API as a grid view
   - The grid element should have an id of `movies-grid`
   - Each movie wrapper element should have a class of `movie-card`
-- [ ] For each movie displayed, user can see the following details:
+- [x] For each movie displayed, user can see the following details:
   - Title - the element should have a class of `movie-title`
   - Image - the `img` element should have a class of `movie-poster`
   - Votes - the element should have a class of `movie-votes`
-- [ ] User can load more current movies by clicking a button at the bottom of the list
+- [x] User can load more current movies by clicking a button at the bottom of the list
   - The button should have an id of `load-more-movies-btn`.
   - When clicked, the page should not refresh.
   - New movies should simply be added to the bottom
@@ -29,7 +27,7 @@ Deployed Application (optional): [Flixster Deployed Site](ADD_LINK_HERE)
   - When a user hits 'Enter', it should send a search request to the movies API
   - The results from the search should be displayed on the page
   - There should be a close icon with an id of `close-search-btn` that exits the search, clears results, and shows the current movies displayed previously
-- [ ] Website accounts for basic HTML/CSS accessibility features
+- [x] Website accounts for basic HTML/CSS accessibility features
 - [ ] Website should be responsive
 
 #### STRETCH FEATURES
@@ -50,15 +48,15 @@ Deployed Application (optional): [Flixster Deployed Site](ADD_LINK_HERE)
 
 * Did the topics discussed in your labs prepare you to complete the assignment? Be specific, which features in your weekly assignment did you feel unprepared to complete?
 
-Add your response here
+I think that the labs help me a lot to prepare, since we saw a topic at the morning, apply it to an example, an then move on to our project. I think all the topics were covered, however the difficult part was combine all the elements together.
 
 * If you had more time, what would you have done differently? Would you have added additional features? Changed the way your project responded to a particular event, etc.
   
-Add your response here
+I would like to add more features, starting from the Stretch Features. And also I will change the code to be more understandable and have better practices
 
 * Reflect on your project demo, what went well? Were there things that maybe didn't go as planned? Did you notice something that your peer did that you would like to try next time?
 
-Add your response here
+Sometimes it was hard to find the error on my code, and after a long time I realized it was something small, so it was disapointing and stressfull. And something I want to try next time is to have a better layout and desing in order to be more professional
 
 ### Open-source libraries used
 

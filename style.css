@@ -1,1 +1,55 @@
+* {
+    padding: 0;
+    margin: 0;
+    border-width: 0;
+}
 
+body{
+    background-color: rgb(72, 0, 34);
+}
+
+h2{
+    display: inline;
+    text-align: center;
+}
+
+.movie-poster{
+    height: auto;
+    width: 100%;
+}
+
+.title{
+    background-color: palevioletred;
+}
+
+.search{
+    text-align: center;
+    color: white;
+}
+
+.more{
+    text-align: center;
+    color: white;
+}
+
+#movie-grid {
+    padding: 30px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    column-gap: 10px;
+    row-gap: 15px;
+}
+
+.movie-card{
+    padding: 10px;
+    border: 1px solid white;
+    border-radius: 10px;
+    background-color: lightpink;
+    box-shadow: 4px 3px 8px 1px #969696;
+    -webkit-box-shadow: inset 4px 3px 8px 1px #969696;
+}
+
+.movie-title{
+    font-size: 20px;
+    text-align: center;
+}
