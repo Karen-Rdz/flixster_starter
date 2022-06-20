@@ -38,7 +38,7 @@ Estimated time spent: **12** hours spent in total
 
 ### Walkthrough Video
 
-[![Video](https://github.com/Karen-Rdz/flixster_starter/blob/main/video.mp4)]
+![](FlixsterGif.gif)
 
 ### Reflection
 
