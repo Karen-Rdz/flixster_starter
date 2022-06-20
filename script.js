@@ -17,7 +17,7 @@ const closeButton = document.getElementById('close-search-btn').addEventListener
 })
 
 async function fetchNowPlaying(){
-    movieGridElement.innerHTML = ''
+    // movieGridElement.innerHTML = ''
     const response = await fetch(`https://api.themoviedb.org/3/movie/now_playing?api_key=${key}&language=en-US&page=${page}`)
     const result = await response.json();
     console.log(result.results)
